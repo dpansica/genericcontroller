@@ -4,7 +4,7 @@
 
     <groupId>it.solutionsexmachina</groupId>
     <artifactId>genericcontroller</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <name>Generic JPA DAO with embedded ObjectDB</name>
     <description>Use CDI to map request bean method and AspectJ to validate input or convert output</description>
@@ -37,7 +37,7 @@
         <connection>scm:git:git://github.com/dpansica/genericcontroller.git</connection>
         <developerConnection>scm:git:git@github.com:dpansica/dpansica/genericcontroller.git</developerConnection>
         <url>https://github.com/dpansica/genericcontroller</url>
-        <tag>HEAD</tag>
+        <tag>genericcontroller-1.0</tag>
     </scm>
 
     <distributionManagement>
